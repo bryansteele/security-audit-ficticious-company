@@ -1,2 +1,1 @@
-# security-audit-ficticious-company
-Security Audit of Fictitious Toy Company: Botium Toys
+# Security Audit of a Ficticious Toy Company Named: Botium Toys
